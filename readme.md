@@ -10,6 +10,8 @@ Lazy Blur Images works with base64 images to show a light preview while the real
 
 ## How to implement
 
+We need to resize our original image to a small image (width of 5px recommended) and [convert it to base64](https://elmah.io/tools/base64-image-encoder/)
+
 ```html
 <img
   src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
