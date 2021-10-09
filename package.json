@@ -1,0 +1,12 @@
+{
+  "name": "lazy-blur-images",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lazy-blur-images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc lazy-blur-images.ts --outFile lazy-blur-images.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
